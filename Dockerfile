@@ -7,4 +7,4 @@ RUN npm install .
 
 ADD ./src /code/src
 ADD ./public /code/public
-
+ADD ./tsconfig.json /code/
